@@ -35,7 +35,7 @@ $ tensorboard --logdir=result_facades
 
 ## Results
 These are some results of facades: left - input, center - gt and right - generated image.
-![My image](screenshot/screenshot_01.png?raw=true)
+![My image](screenshot/screenshot_01.png?raw=true | width=300)
 ![My image](screenshot/screenshot_02.png?raw=true)
 ![My image](screenshot/screenshot_03.png?raw=true)
 ![My image](screenshot/screenshot_04.png?raw=true)
