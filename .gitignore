@@ -1,0 +1,6 @@
+*.pyc
+result_*
+datasets/facades
+datasets/edges2handbags
+datasets/edges2shoes
+datasets/maps
