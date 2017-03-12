@@ -35,13 +35,13 @@ $ tensorboard --logdir=result_facades
 
 ## Results
 These are some results of facades: left - input, center - gt and right - generated image.
-![My image](screenshot/screenshot_01.png?raw=true)
-![My image](screenshot/screenshot_02.png?raw=true)
-![My image](screenshot/screenshot_03.png?raw=true)
-![My image](screenshot/screenshot_04.png?raw=true)
-![My image](screenshot/screenshot_05.png?raw=true)
-![My image](screenshot/screenshot_06.png?raw=true)
-![My image](screenshot/screenshot_07.png?raw=true)
+<img src="screenshot/screenshot_01.png" width="500px"/>
+<img src="screenshot/screenshot_02.png" width="500px"/>
+<img src="screenshot/screenshot_03.png" width="500px"/>
+<img src="screenshot/screenshot_04.png" width="500px"/>
+<img src="screenshot/screenshot_05.png" width="500px"/>
+<img src="screenshot/screenshot_06.png" width="500px"/>
+<img src="screenshot/screenshot_07.png" width="500px"/>
 
 By modifying this code, I transformed facial expression from **neutral** to **smile** by using [MultiPIE](http://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Multi-Pie/Home.html).
 ![My image](screenshot/facial_expression_transform_result.png?raw=true)
