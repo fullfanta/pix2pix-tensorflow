@@ -34,8 +34,15 @@ To see training procedure, you can start tensorboard.
 $ tensorboard --logdir=result_facades
 ```
 
-- Examples
+## Results
+These are some results of facades: left - input, center - gt and right - generated image.
 ![My image](screenshot/screenshot_01.png?raw=true)
+![My image](screenshot/screenshot_02.png?raw=true)
+![My image](screenshot/screenshot_03.png?raw=true)
+![My image](screenshot/screenshot_04.png?raw=true)
+![My image](screenshot/screenshot_05.png?raw=true)
+![My image](screenshot/screenshot_06.png?raw=true)
+![My image](screenshot/screenshot_07.png?raw=true)
 
-By modifying this code, I transformed facial expression from **neutral** to **smile**.
+By modifying this code, I transformed facial expression from **neutral** to **smile** by using [MultiPIE](http://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Multi-Pie/Home.html).
 ![My image](screenshot/facial_expression_transform_result.png?raw=true)
