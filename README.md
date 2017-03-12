@@ -21,15 +21,14 @@ $ sh datasets/download_datasets.sh edges2shoes
 $ sh datasets/download_datasets.sh maps
 ```
 
-- Train
-Train CAN with specific dataset.
+- Train CAN with specific dataset.
 ```
 $ python train.py --dataset=facades --which_direction=BtoA --batch_size=1 --device=gpu
 ```
-I attatch two shell script to train facades(train_facades.sh) and edges2handbags(train_edges2handbags.sh).
 
-- Tensorboard
-To see training procedure, you can start tensorboard.
+I attatch two shell script to train facades(`train_facades.sh`) and edges2handbags(`train_edges2handbags.sh`).
+
+- To see training procedure, you can start tensorboard.
 ```
 $ tensorboard --logdir=result_facades
 ```
